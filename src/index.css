@@ -1,7 +1,6 @@
 @import "tailwindcss";
 
-.font-link {
-   font-family: 'Poppins', cursive;
- }
 
-
+body{
+  font-family: 'Poppins',sans-serif;
+}
