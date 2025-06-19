@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
-body{
-  min-height: 100dvh;
-  font-family: sans-serif;
-}
+.font-link {
+   font-family: 'Poppins', cursive;
+ }
+
+
